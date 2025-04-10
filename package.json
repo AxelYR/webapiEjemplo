@@ -1,0 +1,24 @@
+{
+  "name": "webapiejemplo",
+  "version": "1.0.0",
+  "description": "esta es una web api de ejemplo ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AxelYR/webapiEjemplo.git"
+  },
+  "keywords": [
+    "web",
+    "api",
+    "ejemplo"
+  ],
+  "author": "YaelReH",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AxelYR/webapiEjemplo/issues"
+  },
+  "homepage": "https://github.com/AxelYR/webapiEjemplo#readme"
+}
