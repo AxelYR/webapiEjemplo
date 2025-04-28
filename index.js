@@ -6,7 +6,7 @@ const app = express()
 app.use(bodyparser.json())
 app.use(cors())
 
-const escucha = require('./routes')
+const escucha = require('./routes.js')
 escucha(app)
 
 app.listen('9090',function(){
